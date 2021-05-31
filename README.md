@@ -1,2 +1,2 @@
 # 01.appSantanderTest
-appSanatanderTest_DevWeek
+appSantanderTest_DevWeek
